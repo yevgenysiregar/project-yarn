@@ -6,5 +6,8 @@
   "repository": "https://github.com/yevgenysiregar/project-yarn.git",
   "author": "Yevgeny Omar Siregar <siregar.yevgeny@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "nodemon": "1.18.11"
+  }
 }
