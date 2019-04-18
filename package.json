@@ -7,6 +7,13 @@
   "author": "Yevgeny Omar Siregar <siregar.yevgeny@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1"
+  },
   "devDependencies": {
     "nodemon": "1.18.11"
   }
