@@ -1,0 +1,10 @@
+{
+  "name": "project-yarn",
+  "version": "1.0.0",
+  "description": "Project Yarn to try Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/yevgenysiregar/project-yarn.git",
+  "author": "Yevgeny Omar Siregar <siregar.yevgeny@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
